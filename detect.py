@@ -36,13 +36,13 @@ while True:     # loop that makes program detect ultimate always
                 print(ttt)                        
                 print("ULTIMATE DETECTED!!!") 
                 if ttt == 1:          
-                    playsound('C:\\Users\\jamal\\Desktop\\code\\music\\sound1.mp3')
+                    playsound('DIRECTORY')
                 
                 if ttt == 2:
-                    playsound('C:\\Users\\jamal\\Desktop\\code\\music\\sound2.mp3') # randomize playable sounds | playsound('PATH FOR SOUND') | mp3 works i am not sure about others
+                    playsound('DIRECTORY') # randomize playable sounds | playsound('PATH FOR SOUND') | mp3 works i am not sure about others
                                                                                     # if sound won't play try to import it and export as mp3 with music editor like Audacity
                 if ttt == 3:
-                    playsound('C:\\Users\\jamal\\Desktop\\code\\music\\sound3.mp3')
+                    playsound('DIRECTORY3')
                     
                                      
             if rgb_pixel_value <= (230, 230, 230):              
