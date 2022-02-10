@@ -1,3 +1,3 @@
 # Ultimate-Detector.ov
 
-Simple Python program to make OV gameplay different.
+# Simple Python program to make OV gameplay different.
