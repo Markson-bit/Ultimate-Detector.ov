@@ -2,7 +2,7 @@
 
 Simple Python program to make OV gameplay different.
 
-Allows player to play music/sound while using ultimate ability.
+Allows player to play music/sound while using ultimate ability. Works great in most cases but sometimes detect bright object and rarely can be ran when Q is not ready.
 
 ## Manual: 
 *Currently works fine on 1920x1080 resolution with 3 different sounds randomizer.*
